@@ -1,0 +1,336 @@
+
+
+
+.TopName {
+    position: absolute;
+    top: 130px; /* Adjust as needed */
+    left: 600px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 60px; /* Adjust text size as needed */
+    text-align: center;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.TopEdu {
+    position: absolute;
+    top: 190px; /* Adjust as needed */
+    left: 473px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 20px; /* Adjust text size as needed */
+    text-align: center;
+    padding: 10px; /* Optional: padding around the text */
+   
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+.text-overlay3 {
+    position: absolute;
+    top: 250px; /* Adjust as needed */
+    left: 115px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: center;
+    font-weight: bold;
+    padding: 10px; /* Optional: padding around the text */
+   
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.text-overlay4 {
+    position: absolute;
+    top: 290px; /* Adjust as needed */
+    left: 175px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 14px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+.text-overlay5 {
+    position: absolute;
+    top: 550px; /* Adjust as needed */
+    left: 135px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.text-overlay6 {
+    position: absolute;
+    top: 600px; /* Adjust as needed */
+    left: 165px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 14px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+.text-overlay7 {
+    position: absolute;
+    top: 740px; /* Adjust as needed */
+    left: 125px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.text-overlay8 {
+    position: absolute;
+    top: 790px; /* Adjust as needed */
+    left: 90px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 14px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.text-overlay9 {
+    position: absolute;
+    top: 910px; /* Adjust as needed */
+    left: 100px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.text-overlay10 {
+    position: absolute;
+    top: 970px; /* Adjust as needed */
+    left: 125px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 14px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.Edu {
+    position: absolute;
+    top: 285px; /* Adjust as needed */
+    left: 500px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 35px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+.EduContent {
+    position: absolute;
+    top: 330px; /* Adjust as needed */
+    left: 800px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+  
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+
+
+
+
+.Exp {
+    position: absolute;
+    top: 585px; /* Adjust as needed */
+    left: 510px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 35px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+.ExpContent {
+    position: absolute;
+    top: 630px; /* Adjust as needed */
+    left: 800px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+  
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+
+
+
+
+.Cer {
+    position: absolute;
+    top: 885px; /* Adjust as needed */
+    left: 520px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 35px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+   font-weight: bold;
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+.CerContent {
+    position: absolute;
+    top: 930px; /* Adjust as needed */
+    left: 830px;
+    transform: translateX(-50%);
+    color: rgb(66, 66, 66); /* Adjust text color as needed */
+    font-size: 25px; /* Adjust text size as needed */
+    text-align: left;
+    padding: 10px; /* Optional: padding around the text */
+  
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 0; /* Ensures it’s above .image1 but below other images */
+}
+
+
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: relative;
+    top: 15px;
+    left: 0;
+    width: 310px;
+    height: 1400px;
+    margin-left: 30px;
+  }
+  .image1 {
+    position: absolute;
+    top: 30px;
+    left: 0px;
+   width: 1400px;
+   height: 200px;
+
+  }
+  .image3 {
+    position: absolute;
+    top: 30px;
+    left: 80px;
+   width: 200px;
+   height: 200px;
+
+  }
+  .new-image1 {
+    position: absolute;
+    top: 610px;  /* Adjust top position to be directly above .image2 */
+    left: 60px;
+    transform: translateX(-50%);  /* Center horizontally */
+    width: 20px;  /* Adjust width as needed */
+    height: 20px;
+    z-index: 1;  /* Ensure it is above .image1 */
+}
+.new-image2 {
+    position: absolute;
+    top: 640px;  /* Adjust top position to be directly above .image2 */
+    left: 60px;
+    transform: translateX(-50%);  /* Center horizontally */
+    width: 20px;  /* Adjust width as needed */
+    height: 20px;
+    z-index: 1;  /* Ensure it is above .image1 */
+}
+.new-image3 {
+    position: absolute;
+    top: 670px;  /* Adjust top position to be directly above .image2 */
+    left: 60px;
+    transform: translateX(-50%);  /* Center horizontally */
+    width: 20px;  /* Adjust width as needed */
+    height: 20px;
+    z-index: 1;  /* Ensure it is above .image1 */
+}
+
+.bullet1 {
+    position: absolute;
+    top: 300px;  /* Adjust top position to be directly above .image2 */
+    left: 400px;
+    transform: translateX(-50%);  /* Center horizontally */
+    width: 30px;  /* Adjust width as needed */
+    height: 30px;
+    z-index: 1;  /* Ensure it is above .image1 */
+}
+
+.bullet2 {
+    position: absolute;
+    top: 600px;  /* Adjust top position to be directly above .image2 */
+    left: 400px;
+    transform: translateX(-50%);  /* Center horizontally */
+    width: 30px;  /* Adjust width as needed */
+    height: 30px;
+    z-index: 1;  /* Ensure it is above .image1 */
+}
+
+.bullet3 {
+    position: absolute;
+    top: 900px;  /* Adjust top position to be directly above .image2 */
+    left: 400px;
+    transform: translateX(-50%);  /* Center horizontally */
+    width: 30px;  /* Adjust width as needed */
+    height: 30px;
+    z-index: 1;  /* Ensure it is above .image1 */
+}
+#toggleProfileImage {
+    background-color: #ebe7e7; /* Blue background color */
+    border: none; /* Remove default border */
+    color: rgb(0, 0, 0); /* White text color */
+    left: 300px;
+    right: 200px;
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Allow setting width/height */
+    font-size: 16px; /* Set font size */
+    margin: 10px 0; /* Add margin around button */
+    cursor: pointer; /* Change cursor to pointer */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+#toggleProfileImage:hover {
+    background-color: #3b3b3b; /* Darker blue on hover */
+    color: rgb(255, 255, 255);
+}
+
